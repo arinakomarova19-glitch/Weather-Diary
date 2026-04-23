@@ -20,5 +20,5 @@ Weather Diary - это графическое приложение для вед
 
 1. Клонирование репозитория
 bash
-git clone https://github.com/ivanpetrov/weather-diary.git
+git clone https://github.com/arinakomarova19-glitch/weather-diary.git
 cd weather-diary
